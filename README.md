@@ -2,7 +2,7 @@
 
 Este repositório mostra a personalização do meu ambiente de trabalho no Unix.
 
-## Visão Geral
+## Rice
 
 ![Screenshot 1](screenshots/screenshot1.png)
 *Legenda da imagem 1*
@@ -13,9 +13,6 @@ Este repositório mostra a personalização do meu ambiente de trabalho no Unix.
 ![Screenshot 3](screenshots/screenshot3.png)
 *Legenda da imagem 3*
 
-## Como Replicar
-
-Se você deseja replicar ou experimentar a mesma configuração, siga estes passos:
 
 1. Clone este repositório:
    ```bash
