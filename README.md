@@ -7,7 +7,7 @@ Este repositório mostra a personalização do meu ambiente de trabalho no Unix.
 ![Screenshot 1](2023-12-31_15-07_1.png)
 *Legenda da imagem 1*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](2023-12-31_15-07_1.png)
 *Legenda da imagem 2*
 
 
